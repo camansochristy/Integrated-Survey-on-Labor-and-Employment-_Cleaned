@@ -1,0 +1,234 @@
+Module,Reference_Period,Geography,Category,Indicator,Value,Unit,Denominator_or_Base
+1,August 2024,1,All sectors,Total employed persons,6.14,million persons,Formal establishments with 10+ workers
+1,August 2024,1,Services,Share of total employment,72.4,percent,Total employment in formal establishments with 10+ workers
+1,August 2024,1,Industry,Share of total employment,24.6,percent,Total employment in formal establishments with 10+ workers
+1,August 2024,1,"Agriculture, Forestry and Fishing",Share of total employment,3,percent,Total employment in formal establishments with 10+ workers
+1,August 2024,1,Paid employees,Share of total employment,99.1,percent,Total employed persons
+1,August 2024,1,Working owners,Share of total employment,0.8,percent,Total employed persons
+1,August 2024,1,Unpaid workers,Share of total employment,0.1,percent,Total employed persons
+1,August 2024,1,Paid employees,Number of paid employees,6.08,million persons,Formal establishments with 10+ workers
+1,August 2024,1,Rank-and-file workers,Number of workers,5.34,million persons,Paid employees
+1,August 2024,1,Rank-and-file workers,Share of paid employees,87.8,percent,Paid employees
+1,August 2024,1,Supervisors/foremen,Share of paid employees,7.1,percent,Paid employees
+1,August 2024,1,Managers/executives,Share of paid employees,5.1,percent,Paid employees
+1,August 2024,1,Regular rank-and-file workers,Number of workers,4.22,million persons,Rank-and-file workers
+1,August 2024,1,Regular rank-and-file workers,Share of rank-and-file workers,79.1,percent,Rank-and-file workers
+1,August 2024,1,Non-regular rank-and-file workers,Number of workers,1.12,million persons,Rank-and-file workers
+1,August 2024,1,Non-regular rank-and-file workers,Share of rank-and-file workers,20.9,percent,Rank-and-file workers
+2,August 2024,1,Male workers,Share of total employment,57.2,percent,Total employed persons
+2,August 2024,1,Female workers,Share of total employment,42.8,percent,Total employed persons
+3,August 2024,1,Workers aged 15–30,Number of workers,2.62,million persons,Total employed persons
+3,August 2024,1,Workers aged 15–30,Share of total employment,42.6,percent,Total employed persons
+3,August 2024,1,Workers aged 60–65,Number of workers,71,thousand persons,Total employed persons
+3,August 2024,1,Workers aged 60–65,Share of total employment,1.2,percent,Total employed persons
+3,August 2024,1,Workers with disabilities (PWDs),Number of workers,14,thousand persons,Total employed persons
+3,August 2024,1,Workers with disabilities (PWDs),Share of total employment,0.2,percent,Total employed persons
+3,August 2024,1,Workers paid exactly the minimum wage,Number of workers,1.18,million persons,Total employed persons
+3,August 2024,1,Workers paid exactly the minimum wage,Share of total employment,19.2,percent,Total employed persons
+3,August 2024,1,Evening/graveyard shift workers,Number of workers,623,thousand persons,Total employed persons
+3,August 2024,1,Evening/graveyard shift workers,Share of total employment,10.1,percent,Total employed persons
+4,August 2024,1,Workers under alternative work arrangements,Number of workers,230,thousand persons,Total employed persons
+4,August 2024,1,Workers under alternative work arrangements,Share of total employment,3.7,percent,Total employed persons
+4,August 2024,1,Work-from-home,Share among alternative work arrangements,37.5,percent,Workers under alternative work arrangements
+4,August 2024,1,Telecommuting,Share among alternative work arrangements,30.3,percent,Workers under alternative work arrangements
+4,August 2024,1,Rotation of workers,Share among alternative work arrangements,16.6,percent,Workers under alternative work arrangements
+5,August 2024,1,Establishments engaging agency-hired workers,Number of establishments,31421,establishments,"Estimated 96,409 formal establishments with 10+ workers"
+5,August 2024,1,Establishments engaging agency-hired workers,Share of establishments,32.6,percent,"Estimated 96,409 formal establishments with 10+ workers"
+5,August 2024,1,Security and janitorial services,Share of agency-hired workers by work type,35.9,percent,Agency-hired workers
+5,August 2024,1,Production/assembly,Share of agency-hired workers by work type,29.6,percent,Agency-hired workers
+6,August 2024,1,Formal establishments with 10+ workers,Estimated number of establishments,96409,establishments,National estimate
+6,August 2024,1,Establishments with registered unions,Number of establishments,2914,establishments,"Estimated 96,409 formal establishments with 10+ workers"
+6,August 2024,1,Establishments with registered unions,Share of establishments,3,percent,"Estimated 96,409 formal establishments with 10+ workers"
+7,August 2024,1,Unionized workers,Number of workers,286,thousand persons,Total paid employees
+7,August 2024,1,Union density rate,Share of paid employees,4.7,percent,Total paid employees
+7,August 2024,1,Workers covered by collective bargaining agreements,Number of workers,302,thousand persons,Total paid employees
+7,August 2024,1,CBA coverage rate,Share of paid employees,5,percent,Total paid employees
+8,2022 to 2024,1,Employment in establishments with 20+ workers,Change in employment,150842,workers,2022 employment baseline of 5.37 million
+8,2022 to 2024,1,Employment in establishments with 20+ workers,Percentage change,2.8,percent,2022 employment baseline
+9,August 2024,2,Total employment,Total employment,2445191.939,persons,All employed persons in the region
+9,August 2024,2,Employment share,Percent share of national employment,39.83615091,percent,National employment
+9,August 2024,2,Working owners,Number of working owners,13605.47637,persons,Persons engaged in establishments with 10 or more workers
+9,August 2024,2,Unpaid workers,Number of unpaid workers,460.2768996,persons,Persons engaged in establishments with 10 or more workers
+9,August 2024,2,Paid employees,Number of paid employees,2431126.185,persons,Persons engaged in establishments with 10 or more workers
+9,August 2024,2,Managers/executives,Number of managers/executives,169751.2429,persons,Paid employees
+9,August 2024,2,Supervisors/foremen,Number of supervisors/foremen,214959.6723,persons,Paid employees
+9,August 2024,2,Rank-and-file workers,Number of rank-and-file workers,2046415.27,persons,Paid employees
+9,August 2024,2,Regular rank-and-file workers,Number of regular rank-and-file workers,1569012.902,persons,Rank-and-file workers
+9,August 2024,2,Non-regular rank-and-file workers,Number of non-regular rank-and-file workers,477402.368,persons,Rank-and-file workers
+9,August 2024,2,Agency-hired workers,Number of agency-hired workers,194783.6766,persons,Workers hired through contractors in the region
+9,August 2024,3,Total employment,Total employment,68502.16499,persons,All employed persons in the region
+9,August 2024,3,Employment share,Percent share of national employment,1.116011606,percent,National employment
+9,August 2024,3,Working owners,Number of working owners,805.8708575,persons,Persons engaged in establishments with 10 or more workers
+9,August 2024,3,Unpaid workers,Number of unpaid workers,56.23857236,persons,Persons engaged in establishments with 10 or more workers
+9,August 2024,3,Paid employees,Number of paid employees,67640.05556,persons,Persons engaged in establishments with 10 or more workers
+9,August 2024,3,Managers/executives,Number of managers/executives,3087.31423,persons,Paid employees
+9,August 2024,3,Supervisors/foremen,Number of supervisors/foremen,3874.783044,persons,Paid employees
+9,August 2024,3,Rank-and-file workers,Number of rank-and-file workers,60677.95828,persons,Paid employees
+9,August 2024,3,Regular rank-and-file workers,Number of regular rank-and-file workers,51134.56487,persons,Rank-and-file workers
+9,August 2024,3,Non-regular rank-and-file workers,Number of non-regular rank-and-file workers,9543.393409,persons,Rank-and-file workers
+9,August 2024,3,Agency-hired workers,Number of agency-hired workers,6014.6954,persons,Workers hired through contractors in the region
+9,August 2024,4,Total employment,Total employment,125866.3329,persons,All employed persons in the region
+9,August 2024,4,Employment share,Percent share of national employment,2.050567136,percent,National employment
+9,August 2024,4,Working owners,Number of working owners,1816.862859,persons,Persons engaged in establishments with 10 or more workers
+9,August 2024,4,Unpaid workers,Number of unpaid workers,237.2892171,persons,Persons engaged in establishments with 10 or more workers
+9,August 2024,4,Paid employees,Number of paid employees,123812.1808,persons,Persons engaged in establishments with 10 or more workers
+9,August 2024,4,Managers/executives,Number of managers/executives,4918.593296,persons,Paid employees
+9,August 2024,4,Supervisors/foremen,Number of supervisors/foremen,6606.543261,persons,Paid employees
+9,August 2024,4,Rank-and-file workers,Number of rank-and-file workers,112287.0442,persons,Paid employees
+9,August 2024,4,Regular rank-and-file workers,Number of regular rank-and-file workers,85322.05808,persons,Rank-and-file workers
+9,August 2024,4,Non-regular rank-and-file workers,Number of non-regular rank-and-file workers,26964.98617,persons,Rank-and-file workers
+9,August 2024,4,Agency-hired workers,Number of agency-hired workers,8768.196878,persons,Workers hired through contractors in the region
+9,August 2024,5,Total employment,Total employment,70833.03659,persons,All employed persons in the region
+9,August 2024,5,Employment share,Percent share of national employment,1.153985293,percent,National employment
+9,August 2024,5,Working owners,Number of working owners,1291.350601,persons,Persons engaged in establishments with 10 or more workers
+9,August 2024,5,Unpaid workers,Number of unpaid workers,20.7008543,persons,Persons engaged in establishments with 10 or more workers
+9,August 2024,5,Paid employees,Number of paid employees,69520.98513,persons,Persons engaged in establishments with 10 or more workers
+9,August 2024,5,Managers/executives,Number of managers/executives,2216.614421,persons,Paid employees
+9,August 2024,5,Supervisors/foremen,Number of supervisors/foremen,4096.825051,persons,Paid employees
+9,August 2024,5,Rank-and-file workers,Number of rank-and-file workers,63207.54566,persons,Paid employees
+9,August 2024,5,Regular rank-and-file workers,Number of regular rank-and-file workers,49483.94235,persons,Rank-and-file workers
+9,August 2024,5,Non-regular rank-and-file workers,Number of non-regular rank-and-file workers,13723.60331,persons,Rank-and-file workers
+9,August 2024,5,Agency-hired workers,Number of agency-hired workers,3610.665331,persons,Workers hired through contractors in the region
+9,August 2024,6,Total employment,Total employment,509572.998,persons,All employed persons in the region
+9,August 2024,6,Employment share,Percent share of national employment,8.301772358,percent,National employment
+9,August 2024,6,Working owners,Number of working owners,7359.094459,persons,Persons engaged in establishments with 10 or more workers
+9,August 2024,6,Unpaid workers,Number of unpaid workers,808.7621825,persons,Persons engaged in establishments with 10 or more workers
+9,August 2024,6,Paid employees,Number of paid employees,501405.1413,persons,Persons engaged in establishments with 10 or more workers
+9,August 2024,6,Managers/executives,Number of managers/executives,22016.25433,persons,Paid employees
+9,August 2024,6,Supervisors/foremen,Number of supervisors/foremen,35851.49109,persons,Paid employees
+9,August 2024,6,Rank-and-file workers,Number of rank-and-file workers,443537.3959,persons,Paid employees
+9,August 2024,6,Regular rank-and-file workers,Number of regular rank-and-file workers,368297.5199,persons,Rank-and-file workers
+9,August 2024,6,Non-regular rank-and-file workers,Number of non-regular rank-and-file workers,75239.87604,persons,Rank-and-file workers
+9,August 2024,6,Agency-hired workers,Number of agency-hired workers,72853.73933,persons,Workers hired through contractors in the region
+9,August 2024,7,Total employment,Total employment,1000827.238,persons,All employed persons in the region
+9,August 2024,7,Employment share,Percent share of national employment,16.30510237,percent,National employment
+9,August 2024,7,Working owners,Number of working owners,6992.990004,persons,Persons engaged in establishments with 10 or more workers
+9,August 2024,7,Unpaid workers,Number of unpaid workers,464.4652847,persons,Persons engaged in establishments with 10 or more workers
+9,August 2024,7,Paid employees,Number of paid employees,993369.7823,persons,Persons engaged in establishments with 10 or more workers
+9,August 2024,7,Managers/executives,Number of managers/executives,37850.3337,persons,Paid employees
+9,August 2024,7,Supervisors/foremen,Number of supervisors/foremen,62876.24491,persons,Paid employees
+9,August 2024,7,Rank-and-file workers,Number of rank-and-file workers,892643.2037,persons,Paid employees
+9,August 2024,7,Regular rank-and-file workers,Number of regular rank-and-file workers,725700.7616,persons,Rank-and-file workers
+9,August 2024,7,Non-regular rank-and-file workers,Number of non-regular rank-and-file workers,166942.4421,persons,Rank-and-file workers
+9,August 2024,7,Agency-hired workers,Number of agency-hired workers,148384.675,persons,Workers hired through contractors in the region
+9,August 2024,8,Total employment,Total employment,49772.73832,persons,All employed persons in the region
+9,August 2024,8,Employment share,Percent share of national employment,0.810878804,percent,National employment
+9,August 2024,8,Working owners,Number of working owners,968.1112552,persons,Persons engaged in establishments with 10 or more workers
+9,August 2024,8,Unpaid workers,Number of unpaid workers,333.6454973,persons,Persons engaged in establishments with 10 or more workers
+9,August 2024,8,Paid employees,Number of paid employees,48470.98156,persons,Persons engaged in establishments with 10 or more workers
+9,August 2024,8,Managers/executives,Number of managers/executives,1882.107297,persons,Paid employees
+9,August 2024,8,Supervisors/foremen,Number of supervisors/foremen,3339.179001,persons,Paid employees
+9,August 2024,8,Rank-and-file workers,Number of rank-and-file workers,43249.69527,persons,Paid employees
+9,August 2024,8,Regular rank-and-file workers,Number of regular rank-and-file workers,35820.03709,persons,Rank-and-file workers
+9,August 2024,8,Non-regular rank-and-file workers,Number of non-regular rank-and-file workers,7429.658179,persons,Rank-and-file workers
+9,August 2024,8,Agency-hired workers,Number of agency-hired workers,5431.241938,persons,Workers hired through contractors in the region
+9,August 2024,9,Total employment,Total employment,134827.8459,persons,All employed persons in the region
+9,August 2024,9,Employment share,Percent share of national employment,2.196564748,percent,National employment
+9,August 2024,9,Working owners,Number of working owners,2474.2798,persons,Persons engaged in establishments with 10 or more workers
+9,August 2024,9,Unpaid workers,Number of unpaid workers,59.02738011,persons,Persons engaged in establishments with 10 or more workers
+9,August 2024,9,Paid employees,Number of paid employees,132294.5387,persons,Persons engaged in establishments with 10 or more workers
+9,August 2024,9,Managers/executives,Number of managers/executives,4747.401959,persons,Paid employees
+9,August 2024,9,Supervisors/foremen,Number of supervisors/foremen,5986.773317,persons,Paid employees
+9,August 2024,9,Rank-and-file workers,Number of rank-and-file workers,121560.3634,persons,Paid employees
+9,August 2024,9,Regular rank-and-file workers,Number of regular rank-and-file workers,101439.8128,persons,Rank-and-file workers
+9,August 2024,9,Non-regular rank-and-file workers,Number of non-regular rank-and-file workers,20120.55064,persons,Rank-and-file workers
+9,August 2024,9,Agency-hired workers,Number of agency-hired workers,10032.8747,persons,Workers hired through contractors in the region
+9,August 2024,10,Total employment,Total employment,267159.1744,persons,All employed persons in the region
+9,August 2024,10,Employment share,Percent share of national employment,4.352457172,percent,National employment
+9,August 2024,10,Working owners,Number of working owners,2738.16773,persons,Persons engaged in establishments with 10 or more workers
+9,August 2024,10,Unpaid workers,Number of unpaid workers,84.57543755,persons,Persons engaged in establishments with 10 or more workers
+9,August 2024,10,Paid employees,Number of paid employees,264336.4313,persons,Persons engaged in establishments with 10 or more workers
+9,August 2024,10,Managers/executives,Number of managers/executives,9054.764814,persons,Paid employees
+9,August 2024,10,Supervisors/foremen,Number of supervisors/foremen,14824.62937,persons,Paid employees
+9,August 2024,10,Rank-and-file workers,Number of rank-and-file workers,240457.0371,persons,Paid employees
+9,August 2024,10,Regular rank-and-file workers,Number of regular rank-and-file workers,196368.7371,persons,Rank-and-file workers
+9,August 2024,10,Non-regular rank-and-file workers,Number of non-regular rank-and-file workers,44088.30003,persons,Rank-and-file workers
+9,August 2024,10,Agency-hired workers,Number of agency-hired workers,22792.56652,persons,Workers hired through contractors in the region
+9,August 2024,11,Total employment,Total employment,568624.6414,persons,All employed persons in the region
+9,August 2024,11,Employment share,Percent share of national employment,9.263819608,percent,National employment
+9,August 2024,11,Working owners,Number of working owners,3291.996199,persons,Persons engaged in establishments with 10 or more workers
+9,August 2024,11,Unpaid workers,Number of unpaid workers,111.3429269,persons,Persons engaged in establishments with 10 or more workers
+9,August 2024,11,Paid employees,Number of paid employees,565221.3023,persons,Persons engaged in establishments with 10 or more workers
+9,August 2024,11,Managers/executives,Number of managers/executives,22118.06629,persons,Paid employees
+9,August 2024,11,Supervisors/foremen,Number of supervisors/foremen,31093.44961,persons,Paid employees
+9,August 2024,11,Rank-and-file workers,Number of rank-and-file workers,512009.7864,persons,Paid employees
+9,August 2024,11,Regular rank-and-file workers,Number of regular rank-and-file workers,416447.9213,persons,Rank-and-file workers
+9,August 2024,11,Non-regular rank-and-file workers,Number of non-regular rank-and-file workers,95561.86512,persons,Rank-and-file workers
+9,August 2024,12,Agency-hired workers,Number of agency-hired workers,53120.51455,persons,Workers hired through contractors in the region
+9,August 2024,12,Total employment,Total employment,82321.54939,persons,All employed persons in the region
+9,August 2024,12,Employment share,Percent share of national employment,1.341151839,percent,National employment
+9,August 2024,12,Working owners,Number of working owners,1016.30499,persons,Persons engaged in establishments with 10 or more workers
+9,August 2024,12,Unpaid workers,Number of unpaid workers,2859.165447,persons,Persons engaged in establishments with 10 or more workers
+9,August 2024,12,Paid employees,Number of paid employees,78446.07895,persons,Persons engaged in establishments with 10 or more workers
+9,August 2024,12,Managers/executives,Number of managers/executives,2681.72374,persons,Paid employees
+9,August 2024,12,Supervisors/foremen,Number of supervisors/foremen,4415.066347,persons,Paid employees
+9,August 2024,12,Rank-and-file workers,Number of rank-and-file workers,71349.28886,persons,Paid employees
+9,August 2024,12,Regular rank-and-file workers,Number of regular rank-and-file workers,58636.23919,persons,Rank-and-file workers
+9,August 2024,12,Non-regular rank-and-file workers,Number of non-regular rank-and-file workers,12713.04967,persons,Rank-and-file workers
+9,August 2024,12,Agency-hired workers,Number of agency-hired workers,4434.084434,persons,Workers hired through contractors in the region
+9,August 2024,13,Total employment,Total employment,84774.2745,persons,All employed persons in the region
+9,August 2024,13,Employment share,Percent share of national employment,1.381110717,percent,National employment
+9,August 2024,13,Working owners,Number of working owners,1270.32286,persons,Persons engaged in establishments with 10 or more workers
+9,August 2024,13,Unpaid workers,Number of unpaid workers,10.09049797,persons,Persons engaged in establishments with 10 or more workers
+9,August 2024,13,Paid employees,Number of paid employees,83493.86114,persons,Persons engaged in establishments with 10 or more workers
+9,August 2024,13,Managers/executives,Number of managers/executives,2123.820034,persons,Paid employees
+9,August 2024,13,Supervisors/foremen,Number of supervisors/foremen,3512.988921,persons,Paid employees
+9,August 2024,13,Rank-and-file workers,Number of rank-and-file workers,77857.05219,persons,Paid employees
+9,August 2024,13,Regular rank-and-file workers,Number of regular rank-and-file workers,63491.62578,persons,Rank-and-file workers
+9,August 2024,13,Non-regular rank-and-file workers,Number of non-regular rank-and-file workers,14365.4264,persons,Rank-and-file workers
+9,August 2024,13,Agency-hired workers,Number of agency-hired workers,5622.180894,persons,Workers hired through contractors in the region
+9,August 2024,14,Total employment,Total employment,179600.3776,persons,All employed persons in the region
+9,August 2024,14,Employment share,Percent share of national employment,2.92598206,percent,National employment
+9,August 2024,14,Working owners,Number of working owners,2441.538667,persons,Persons engaged in establishments with 10 or more workers
+9,August 2024,14,Unpaid workers,Number of unpaid workers,20.06666756,persons,Persons engaged in establishments with 10 or more workers
+9,August 2024,14,Paid employees,Number of paid employees,177138.7723,persons,Persons engaged in establishments with 10 or more workers
+9,August 2024,14,Managers/executives,Number of managers/executives,6199.09146,persons,Paid employees
+9,August 2024,14,Supervisors/foremen,Number of supervisors/foremen,10677.73114,persons,Paid employees
+9,August 2024,14,Rank-and-file workers,Number of rank-and-file workers,160261.9497,persons,Paid employees
+9,August 2024,14,Regular rank-and-file workers,Number of regular rank-and-file workers,117581.1501,persons,Rank-and-file workers
+9,August 2024,14,Non-regular rank-and-file workers,Number of non-regular rank-and-file workers,42680.79952,persons,Rank-and-file workers
+9,August 2024,14,Agency-hired workers,Number of agency-hired workers,25571.16088,persons,Workers hired through contractors in the region
+9,August 2024,15,Total employment,Total employment,297011.4019,persons,All employed persons in the region
+9,August 2024,15,Employment share,Percent share of national employment,4.838798477,percent,National employment
+9,August 2024,15,Working owners,Number of working owners,2880.276394,persons,Persons engaged in establishments with 10 or more workers
+9,August 2024,15,Unpaid workers,Number of unpaid workers,209.2962914,persons,Persons engaged in establishments with 10 or more workers
+9,August 2024,15,Paid employees,Number of paid employees,293921.8293,persons,Persons engaged in establishments with 10 or more workers
+9,August 2024,15,Managers/executives,Number of managers/executives,13136.61473,persons,Paid employees
+9,August 2024,15,Supervisors/foremen,Number of supervisors/foremen,19901.47254,persons,Paid employees
+9,August 2024,15,Rank-and-file workers,Number of rank-and-file workers,260883.742,persons,Paid employees
+9,August 2024,15,Regular rank-and-file workers,Number of regular rank-and-file workers,200393.4349,persons,Rank-and-file workers
+9,August 2024,15,Non-regular rank-and-file workers,Number of non-regular rank-and-file workers,60490.30706,persons,Rank-and-file workers
+9,August 2024,15,Agency-hired workers,Number of agency-hired workers,48812.11844,persons,Workers hired through contractors in the region
+9,August 2024,16,Total employment,Total employment,164161.4202,persons,All employed persons in the region
+9,August 2024,16,Employment share,Percent share of national employment,2.674456351,percent,National employment
+9,August 2024,16,Working owners,Number of working owners,1384.326592,persons,Persons engaged in establishments with 10 or more workers
+9,August 2024,16,Unpaid workers,Number of unpaid workers,45.24242365,persons,Persons engaged in establishments with 10 or more workers
+9,August 2024,16,Paid employees,Number of paid employees,162731.8512,persons,Persons engaged in establishments with 10 or more workers
+9,August 2024,16,Managers/executives,Number of managers/executives,5364.39027,persons,Paid employees
+9,August 2024,16,Supervisors/foremen,Number of supervisors/foremen,6668.250399,persons,Paid employees
+9,August 2024,16,Rank-and-file workers,Number of rank-and-file workers,150699.2105,persons,Paid employees
+9,August 2024,16,Regular rank-and-file workers,Number of regular rank-and-file workers,123929.9568,persons,Rank-and-file workers
+9,August 2024,16,Non-regular rank-and-file workers,Number of non-regular rank-and-file workers,26769.2537,persons,Rank-and-file workers
+9,August 2024,16,Agency-hired workers,Number of agency-hired workers,51356.88667,persons,Workers hired through contractors in the region
+9,August 2024,17,Total employment,Total employment,67396.10121,persons,All employed persons in the region
+9,August 2024,17,Employment share,Percent share of national employment,1.097992029,percent,National employment
+9,August 2024,17,Working owners,Number of working owners,815.9989668,persons,Persons engaged in establishments with 10 or more workers
+9,August 2024,17,Unpaid workers,Number of unpaid workers,76.16723645,persons,Persons engaged in establishments with 10 or more workers
+9,August 2024,17,Paid employees,Number of paid employees,66503.93501,persons,Persons engaged in establishments with 10 or more workers
+9,August 2024,17,Managers/executives,Number of managers/executives,1893.968758,persons,Paid employees
+9,August 2024,17,Supervisors/foremen,Number of supervisors/foremen,4080.151918,persons,Paid employees
+9,August 2024,17,Rank-and-file workers,Number of rank-and-file workers,60529.81433,persons,Paid employees
+9,August 2024,17,Regular rank-and-file workers,Number of regular rank-and-file workers,38714.22227,persons,Rank-and-file workers
+9,August 2024,17,Non-regular rank-and-file workers,Number of non-regular rank-and-file workers,21815.59207,persons,Rank-and-file workers
+9,August 2024,17,Agency-hired workers,Number of agency-hired workers,12858.13197,persons,Workers hired through contractors in the region
+9,August 2024,18,Total employment,Total employment,21679.76005,persons,All employed persons in the region
+9,August 2024,18,Employment share,Percent share of national employment,0.353198528,percent,National employment
+9,August 2024,18,Working owners,Number of working owners,360.9005963,persons,Persons engaged in establishments with 10 or more workers
+9,August 2024,18,Unpaid workers,Number of unpaid workers,133.8805691,persons,Persons engaged in establishments with 10 or more workers
+9,August 2024,18,Paid employees,Number of paid employees,21184.97888,persons,Persons engaged in establishments with 10 or more workers
+9,August 2024,18,Managers/executives,Number of managers/executives,583.0520401,persons,Paid employees
+9,August 2024,18,Supervisors/foremen,Number of supervisors/foremen,738.2028444,persons,Paid employees
+9,August 2024,18,Rank-and-file workers,Number of rank-and-file workers,19863.724,persons,Paid employees
+9,August 2024,18,Regular rank-and-file workers,Number of regular rank-and-file workers,17734.95326,persons,Rank-and-file workers
+9,August 2024,18,Non-regular rank-and-file workers,Number of non-regular rank-and-file workers,2128.77074,persons,Rank-and-file workers
+9,August 2024,18,Agency-hired workers,Number of agency-hired workers,1870.088189,persons,Workers hired through contractors in the region
